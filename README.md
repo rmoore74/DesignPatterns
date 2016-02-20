@@ -1,0 +1,2 @@
+# DesignPatterns
+If there's one thing I've learned during my time whilst at SAP, it would be that of the importance of design patterns. Consequently, I purchased Head First Design Patterns and have decided to work through this to enhance my knowledge of these design principles and become a better programmer! I've decided that I may as well document my progress here on GitHub, as well as having a central repository that I can retrieve my code from.
